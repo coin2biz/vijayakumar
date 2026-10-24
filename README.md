@@ -12,7 +12,7 @@
 
 - Supply: 100M $PURE
 - Chain: TON
-- contract:EQAS3BU-wKhd97ESu2HGodWYhh-yA6VBoC9gl4vEYz4Ltxlf
+- contract: EQAS3BU-wKhd97ESu2HGodWYhh-yA6VBoC9gl4vEYz4Ltxlf
 - Website: pureai-token-proof.lovable.app
 
 ### 🔗 Links
