@@ -27,4 +27,4 @@ Decentralized AI ecosystem for everyone.
 
 ---
 
-**Founder:** Vijayakumar | Chennai, India 🇮🇳
+**Founder:** Vijayakumar | Dharmapuri, India 🇮🇳
