@@ -13,12 +13,13 @@
 - Supply: 100M $PURE
 - Chain: TON
 - contract: EQAS3BU-wKhd97ESu2HGodWYhh-yA6VBoC9gl4vEYz4Ltxlf
-- Website: pureai-token-proof.lovable.app
+- Website: pureaitoken.xyz
 
 ### 🔗 Links
 
 - Bot: https://t.me/pureaitoken_bot
-- Website: https://pureai-token-proof.lovable.app
+- Website: https://pureaitoken.xyz
+- 
 
 ### 💡 Vision
 
