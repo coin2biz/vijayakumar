@@ -19,7 +19,7 @@
 
 - Bot: https://t.me/pureaitoken_bot
 - Website: https://pureaitoken.xyz
-- 
+- facebook: https://www.facebook.com/profile.php?id=61596133860097
 
 ### 💡 Vision
 
