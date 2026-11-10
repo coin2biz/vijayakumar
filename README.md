@@ -1,6 +1,6 @@
 # Vijayakumar | Founder @ PURE AI TOKEN 🧠💎
 
-### AI Utility Token on TON | 100M $PURE
+### AI Utility Token on TON | 1B $PURE
 
 > Building the Future of AI x Crypto 🚀
 
