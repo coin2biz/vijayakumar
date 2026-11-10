@@ -1,4 +1,4 @@
-# Vijayakumar | Founder @ PURE AI TOKEN 🧠💎
+# Vijayakumar | Founder of PURE AI TOKEN 🧠💎
 
 ### AI Utility Token on TON | 1B $PURE
 
@@ -20,6 +20,7 @@
 - Bot: https://t.me/pureaitoken_bot
 - Website: https://pureaitoken.xyz
 - facebook: https://www.facebook.com/profile.php?id=61596133860097
+- https://x.com/pureaitoken
 
 ### 💡 Vision
 
