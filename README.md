@@ -10,7 +10,7 @@
 
 **$PURE** is next-gen AI utility token on **TON Blockchain**
 
-- Supply: 100M $PURE
+- Supply: 1Billion $PURE
 - Chain: TON
 - contract: EQAS3BU-wKhd97ESu2HGodWYhh-yA6VBoC9gl4vEYz4Ltxlf
 - Website: pureaitoken.xyz
