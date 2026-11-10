@@ -21,7 +21,7 @@
 - Website: https://pureaitoken.xyz
 - facebook: https://www.facebook.com/profile.php?id=61596133860097
 - https://x.com/pureaitoken
-- https://raw.githubusercontent.com/coin2biz/ton-assets/main/jettons/PURE.png
+  
 
 ### 💡 Vision
 
